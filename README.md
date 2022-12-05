@@ -1,0 +1,2 @@
+# hypothesis_for_test_outcome
+各用假設檢定分析參數與分數間的關聯性
